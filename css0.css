@@ -1,0 +1,23 @@
+h1{
+    font-style: italic;
+    color: purple;
+}
+
+h2{
+    color: lightblue;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    color:#aedb9f;
+}
+
+li{
+    font: 15px arial, sans-serif;
+    font-style: oblique;
+}
+
+body{
+    color: pink;
+}
