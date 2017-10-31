@@ -1,0 +1,27 @@
+h1{
+    font-style: italic;
+    color: red;
+    font-variant: small-caps;
+}
+
+h2{
+    color: orange;
+    font-variant: small-caps
+}
+
+h3{
+    font-size: 20px;
+    font-variant: small-caps;
+    color:#d8c54d;
+}
+
+li{
+    font: 15px arial, sans-serif;
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+body{
+    color: red;
+    font-variant: small-caps;
+}
