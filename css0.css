@@ -10,14 +10,26 @@ h2{
 h3{
     font-size: 20px;
     font-weight: bold;
-    color:#aedb9f;
+    color: lightblue;
 }
 
 li{
-    font: 15px arial, sans-serif;
+    font: 15px helvetica, sans-serif;
     font-style: oblique;
 }
 
 body{
+    color: pink;
+    background-color: #fffff2;
+    font-family: "Helvetica";
+    font-size: 15px;
+    font-variant: small-caps;
+}
+
+p{
+    font-variant: normal;
+}
+
+a{
     color: pink;
 }

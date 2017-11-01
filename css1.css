@@ -1,27 +1,31 @@
 h1{
     font-style: italic;
-    color: red;
-    font-variant: small-caps;
+    font-size: 150px;
 }
 
 h2{
-    color: orange;
-    font-variant: small-caps
+    font-style: italic;
+    font-size: 80px;
 }
 
 h3{
-    font-size: 20px;
-    font-variant: small-caps;
-    color:#d8c54d;
+    font-style: italic;
+    font-size: 60px;
 }
 
 li{
     font: 15px arial, sans-serif;
-    font-variant: small-caps;
     font-style: italic;
+    font-size: 40px;
 }
 
 body{
-    color: red;
-    font-variant: small-caps;
+    color: white;
+    background-color: red;
+    font-family: "Helvetica";
+    font-size: 30px;
 }
+
+a{
+    color: white;
+}    
